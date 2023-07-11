@@ -125,7 +125,9 @@ p{
 
 @media (max-width: 1000px) {
     #title {
+        font-size: xx-small;
         text-align: center;
+        
     }
 };
     
